@@ -21,7 +21,7 @@ sap.ui.define([
 				title: "Title",
 				content: [
 				  new sap.m.Button({
-					  text: "Click on me devuda plz help me!!"
+					  text: "Click on me or u will die!!"
 				  })
 				]
 			});
